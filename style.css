@@ -1,0 +1,32 @@
+#btn{
+  color: yellow;
+  background:red;
+  padding: 20px;
+  border: 25px;
+  border-color: orange;
+}
+body {
+  background-image: linear-gradient(lightblue, yellow);
+}
+.icons
+{
+ font-size:4rem;
+}
+.footericon i
+{
+ margin:1%;
+ font-size:35px;
+  
+ 
+}
+#footer
+{
+ text-align:center;
+ background-color:turquoise;
+}
+h2
+{
+ font-family:"Montserrat";
+ font-size:30px;
+  
+}
